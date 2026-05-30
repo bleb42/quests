@@ -104,3 +104,6 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Script-only repo - ignore meta files
+*.meta
